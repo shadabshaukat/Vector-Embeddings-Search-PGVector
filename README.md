@@ -1,1 +1,1 @@
-# Vector-Search-PGVector
+# Vector-Embeddings-Search-PGVector
